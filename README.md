@@ -14,4 +14,6 @@ This repository contains an analysis of mobile applications data, focusing on va
 
 Below is the Project notebook link 👇<br>
 
+Github tutorial
+
 https://shorturl.at/aKOPU
